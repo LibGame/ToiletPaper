@@ -1,0 +1,1015 @@
+fileFormatVersion: 2
+guid: abd4632139e35de48b7e87ccdd9c048f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8927669417666529980
+    second: feruririon (7)_0
+  - first:
+      213: 3426642186918466192
+    second: feruririon (7)_1
+  - first:
+      213: 6723875941485562363
+    second: feruririon (7)_2
+  - first:
+      213: -8169312249709500389
+    second: feruririon (7)_3
+  - first:
+      213: 1808604095189053795
+    second: feruririon (7)_4
+  - first:
+      213: -4665167602311435030
+    second: feruririon (7)_5
+  - first:
+      213: -3015024778723104687
+    second: feruririon (7)_6
+  - first:
+      213: 4435422894252315017
+    second: feruririon (7)_7
+  - first:
+      213: 3447860267002947398
+    second: feruririon (7)_8
+  - first:
+      213: 4546646987210292860
+    second: feruririon (7)_9
+  - first:
+      213: -8425279157170540171
+    second: feruririon (7)_10
+  - first:
+      213: 3739296345539888435
+    second: feruririon (7)_11
+  - first:
+      213: -6446942458998743623
+    second: feruririon (7)_12
+  - first:
+      213: -6777106988216159529
+    second: feruririon (7)_13
+  - first:
+      213: -904130928068152428
+    second: feruririon (7)_14
+  - first:
+      213: -4652478747523303128
+    second: feruririon (7)_15
+  - first:
+      213: 5143473616134628281
+    second: feruririon (7)_16
+  - first:
+      213: -1823846060388137720
+    second: feruririon (7)_20
+  - first:
+      213: -3861318971648914235
+    second: feruririon (7)_21
+  - first:
+      213: 8507727460321711155
+    second: feruririon (7)_22
+  - first:
+      213: 2909025979896843718
+    second: feruririon (7)_24
+  - first:
+      213: -7908353770239163627
+    second: feruririon (7)_25
+  - first:
+      213: -6476859208272448801
+    second: feruririon (7)_26
+  - first:
+      213: 3188780810658502371
+    second: feruririon (7)_27
+  - first:
+      213: -7069435555953753578
+    second: feruririon (7)_28
+  - first:
+      213: 2813623164966086749
+    second: feruririon (7)_29
+  - first:
+      213: -3257177831457679069
+    second: feruririon (7)_30
+  - first:
+      213: -3058358293171716875
+    second: feruririon (7)_34
+  - first:
+      213: 1463946588642287386
+    second: feruririon (7)_35
+  - first:
+      213: 5951458448074724945
+    second: feruririon (7)_36
+  - first:
+      213: -6187660811288922924
+    second: feruririon (7)_37
+  - first:
+      213: 8863420544165540792
+    second: feruririon (7)_38
+  - first:
+      213: -5988927872382781037
+    second: feruririon (7)_39
+  - first:
+      213: -558417490483026950
+    second: feruririon (7)_40
+  - first:
+      213: 2239475956447199795
+    second: feruririon (7)_42
+  - first:
+      213: -4495302067998964409
+    second: feruririon (7)_43
+  - first:
+      213: 4564641534968501348
+    second: feruririon (7)_45
+  - first:
+      213: 6490522788079712314
+    second: feruririon (7)_46
+  - first:
+      213: -3819122049378618808
+    second: feruririon (7)_47
+  - first:
+      213: -203664945848420965
+    second: feruririon (7)_31
+  - first:
+      213: -9356640211435809
+    second: feruririon (7)_17
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: feruririon (7)_4
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 880
+        width: 175
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e0f4bc2c82e764abb2da587fa82b50
+      internalID: 1808604095189053795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_5
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 880
+        width: 175
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72edcbc28cb084146aaac0959561bd8d
+      internalID: -4665167602311435030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_6
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 880
+        width: 175
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946113b430d8e1040a5a774930392dd6
+      internalID: -3015024778723104687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_7
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 894
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4845ecbdaeff1d04ca58b5800a29d2d6
+      internalID: 4435422894252315017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_8
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 894
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a15892e3c45d143a0c152a8f262770
+      internalID: 3447860267002947398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_9
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 812
+        width: 176
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c148a026b918143872621bfd6427f9
+      internalID: 4546646987210292860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_10
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 892
+        width: 201
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4f6e8c656083440934ec2da09e943f
+      internalID: -8425279157170540171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_11
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 780
+        width: 399
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56c187ce3f2a3e4f8d68eea66c95d95
+      internalID: 3739296345539888435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 708
+        width: 252
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4cf595f2c857346870ddb4b6fc761d
+      internalID: -6446942458998743623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_13
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 766
+        width: 174
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee3d889b21986047907727c6b53fdcc
+      internalID: -6777106988216159529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_14
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 766
+        width: 175
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20d53a810426ea468b5e2f781321221
+      internalID: -904130928068152428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_15
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 775
+        width: 118
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fb2d88f372a994ab113646afba2a8c
+      internalID: -4652478747523303128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_16
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 699
+        width: 176
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dbab2252144f947989802a89a76c92
+      internalID: 5143473616134628281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_20
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 731
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a2bc7780fb07c4e88c2b75bf26cdaf
+      internalID: -1823846060388137720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_21
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 731
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b6fa17c72ad474192b75831712c2e0
+      internalID: -3861318971648914235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_22
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 731
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f727aa95500c4b14e96186f468b40918
+      internalID: 8507727460321711155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_24
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 782
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179852e170e7894429f39e38238f57e7
+      internalID: 2909025979896843718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_25
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 640
+        width: 173
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4f3a00c1939a447b7b209394e1f198
+      internalID: -7908353770239163627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_26
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 638
+        width: 119
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7facc195dceaf846a2d07879a12c3a8
+      internalID: -6476859208272448801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_27
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 631
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbcc9997dee61541b17c7c2c5605222
+      internalID: 3188780810658502371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_28
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 631
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05897867a3d28e24db6ec773d2f7ad36
+      internalID: -7069435555953753578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_29
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 631
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67e0ac722e300e45a46d65abcf478c4
+      internalID: 2813623164966086749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_30
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 577
+        width: 174
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689ed681cf472274d904e5bd73124bb0
+      internalID: -3257177831457679069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_34
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 642
+        width: 112
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5cfd2407985da4b9b7138c9da1d629
+      internalID: -3058358293171716875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_35
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 657
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705f9a9dde318084c998c1e3a5fc5081
+      internalID: 1463946588642287386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_36
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 673
+        width: 4
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8327f5306ad36f14a8860cfccdfdf204
+      internalID: 5951458448074724945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_37
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 528
+        width: 173
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403f0e91d97838941b01828b9173f899
+      internalID: -6187660811288922924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_38
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 529
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20f0c4eabd52be498dd02dee63e9f81
+      internalID: 8863420544165540792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_39
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 529
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094c325d81e2a9643a5097f5c578ab51
+      internalID: -5988927872382781037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_40
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 529
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e72cdde73ca9744a718f97429a4c32
+      internalID: -558417490483026950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_42
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 541
+        width: 126
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c712b2f1c4f4fab4ba6722d32dbd00ec
+      internalID: 2239475956447199795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_43
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 541
+        width: 122
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45709be7950f04d40b2dff42b50fcd1f
+      internalID: -4495302067998964409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_45
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 7
+        width: 273
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66516f1a281324b449e0a065e30cbd23
+      internalID: 4564641534968501348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_46
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 7
+        width: 274
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beee9282acc6c4458f8785f1623b754
+      internalID: 6490522788079712314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_47
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 7
+        width: 273
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0670b460bdbfdaa4eae1944a54e07f8f
+      internalID: -3819122049378618808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_31
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 529
+        width: 127
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9324f162854f68f44903c6e8090c59b0
+      internalID: -203664945848420965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feruririon (7)_17
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 771
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c6ebba17b19d042bc5f9ce7895a00a
+      internalID: -9356640211435809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2695 @@
+fileFormatVersion: 2
+guid: e63c93d2180e22044859b7458898d598
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6713304831501166451
+    second: ToiletPaperSprites_0
+  - first:
+      213: -2164852846325509775
+    second: ToiletPaperSprites_1
+  - first:
+      213: -7952423658536145969
+    second: ToiletPaperSprites_2
+  - first:
+      213: 7336611986147636037
+    second: ToiletPaperSprites_3
+  - first:
+      213: -5075075729422480407
+    second: ToiletPaperSprites_4
+  - first:
+      213: 7893637706414088126
+    second: ToiletPaperSprites_5
+  - first:
+      213: -4328209957112822227
+    second: ToiletPaperSprites_6
+  - first:
+      213: -4834604158377725501
+    second: ToiletPaperSprites_7
+  - first:
+      213: -7800059160199974485
+    second: ToiletPaperSprites_8
+  - first:
+      213: 3081434820568967344
+    second: ToiletPaperSprites_9
+  - first:
+      213: -21386172032560623
+    second: ToiletPaperSprites_10
+  - first:
+      213: 5288135826834437640
+    second: ToiletPaperSprites_11
+  - first:
+      213: -5297646995115690914
+    second: ToiletPaperSprites_12
+  - first:
+      213: 1169349920084697996
+    second: ToiletPaperSprites_13
+  - first:
+      213: 712847983108897108
+    second: ToiletPaperSprites_14
+  - first:
+      213: -5928454668213217744
+    second: ToiletPaperSprites_15
+  - first:
+      213: -4319602035664780844
+    second: ToiletPaperSprites_16
+  - first:
+      213: 3992202497590468401
+    second: ToiletPaperSprites_17
+  - first:
+      213: -6304786166971103961
+    second: ToiletPaperSprites_18
+  - first:
+      213: 1317776737703682886
+    second: ToiletPaperSprites_24
+  - first:
+      213: 471484431698571785
+    second: ToiletPaperSprites_28
+  - first:
+      213: 8655444150029392066
+    second: ToiletPaperSprites_33
+  - first:
+      213: 8557879307780167783
+    second: ToiletPaperSprites_34
+  - first:
+      213: -6091332318023106554
+    second: ToiletPaperSprites_35
+  - first:
+      213: 5517260958147118483
+    second: ToiletPaperSprites_36
+  - first:
+      213: 1331675771289210958
+    second: ToiletPaperSprites_37
+  - first:
+      213: -8786874987802333798
+    second: ToiletPaperSprites_38
+  - first:
+      213: -9072693859374082380
+    second: ToiletPaperSprites_39
+  - first:
+      213: -437324932665231654
+    second: ToiletPaperSprites_40
+  - first:
+      213: 8576928924190540790
+    second: ToiletPaperSprites_41
+  - first:
+      213: 8244047859764226706
+    second: ToiletPaperSprites_45
+  - first:
+      213: -8744657115672189767
+    second: ToiletPaperSprites_46
+  - first:
+      213: -1815617814509978901
+    second: ToiletPaperSprites_48
+  - first:
+      213: 6864285995541494368
+    second: ToiletPaperSprites_54
+  - first:
+      213: -3105777390079530170
+    second: ToiletPaperSprites_55
+  - first:
+      213: -7141502501425977485
+    second: ToiletPaperSprites_56
+  - first:
+      213: 1076747365814026479
+    second: ToiletPaperSprites_57
+  - first:
+      213: -8644746379039637585
+    second: ToiletPaperSprites_58
+  - first:
+      213: -3076961296586866127
+    second: ToiletPaperSprites_59
+  - first:
+      213: 9148301241970510255
+    second: ToiletPaperSprites_60
+  - first:
+      213: -4227008387147635717
+    second: ToiletPaperSprites_61
+  - first:
+      213: -741868485427688975
+    second: ToiletPaperSprites_62
+  - first:
+      213: 4404663505782999551
+    second: ToiletPaperSprites_63
+  - first:
+      213: -5232419196990576116
+    second: ToiletPaperSprites_64
+  - first:
+      213: 4610691839009905447
+    second: ToiletPaperSprites_65
+  - first:
+      213: -9204785989097500389
+    second: ToiletPaperSprites_66
+  - first:
+      213: -9158613457331923962
+    second: ToiletPaperSprites_67
+  - first:
+      213: 394161052517564580
+    second: ToiletPaperSprites_68
+  - first:
+      213: -8657684323898953678
+    second: ToiletPaperSprites_69
+  - first:
+      213: -100011003255954526
+    second: ToiletPaperSprites_70
+  - first:
+      213: 698620312286356752
+    second: ToiletPaperSprites_71
+  - first:
+      213: 7091060929427833702
+    second: ToiletPaperSprites_72
+  - first:
+      213: -4361839721761025627
+    second: ToiletPaperSprites_73
+  - first:
+      213: -7898385652736800453
+    second: ToiletPaperSprites_74
+  - first:
+      213: 657682805280864057
+    second: ToiletPaperSprites_75
+  - first:
+      213: -1373027391597513779
+    second: ToiletPaperSprites_76
+  - first:
+      213: 8505182042645934015
+    second: ToiletPaperSprites_77
+  - first:
+      213: -863337324349816810
+    second: ToiletPaperSprites_78
+  - first:
+      213: 3771211818182184629
+    second: ToiletPaperSprites_79
+  - first:
+      213: 2763113560655162664
+    second: ToiletPaperSprites_80
+  - first:
+      213: 5121561649118556253
+    second: ToiletPaperSprites_81
+  - first:
+      213: -197336397994156816
+    second: ToiletPaperSprites_82
+  - first:
+      213: -82799408930994423
+    second: ToiletPaperSprites_83
+  - first:
+      213: 1938882169626728202
+    second: ToiletPaperSprites_84
+  - first:
+      213: 1279662491911997593
+    second: ToiletPaperSprites_85
+  - first:
+      213: -6135072193863348997
+    second: ToiletPaperSprites_86
+  - first:
+      213: 5932952258091580816
+    second: ToiletPaperSprites_87
+  - first:
+      213: -3569761747065602895
+    second: ToiletPaperSprites_88
+  - first:
+      213: -2599824066505423393
+    second: ToiletPaperSprites_89
+  - first:
+      213: 2921481049110503113
+    second: ToiletPaperSprites_90
+  - first:
+      213: 5269337600415116845
+    second: ToiletPaperSprites_91
+  - first:
+      213: -3376736104988593383
+    second: ToiletPaperSprites_92
+  - first:
+      213: 2797793893591535795
+    second: ToiletPaperSprites_93
+  - first:
+      213: -3494669851800899368
+    second: ToiletPaperSprites_94
+  - first:
+      213: 5699334929129143121
+    second: ToiletPaperSprites_95
+  - first:
+      213: -5577610783651916689
+    second: ToiletPaperSprites_96
+  - first:
+      213: -6810815034619882091
+    second: ToiletPaperSprites_97
+  - first:
+      213: -6685231366213195165
+    second: ToiletPaperSprites_98
+  - first:
+      213: 6506907619381840023
+    second: ToiletPaperSprites_99
+  - first:
+      213: -1964357202358857619
+    second: ToiletPaperSprites_100
+  - first:
+      213: -7417174686504729931
+    second: ToiletPaperSprites_101
+  - first:
+      213: 674816798831000471
+    second: ToiletPaperSprites_102
+  - first:
+      213: 4810837810636883646
+    second: ToiletPaperSprites_103
+  - first:
+      213: 4540047932993813083
+    second: ToiletPaperSprites_104
+  - first:
+      213: -7078421585138875503
+    second: ToiletPaperSprites_105
+  - first:
+      213: -8102175379669674910
+    second: ToiletPaperSprites_106
+  - first:
+      213: 1556244259841342503
+    second: ToiletPaperSprites_107
+  - first:
+      213: 773644401106196485
+    second: ToiletPaperSprites_108
+  - first:
+      213: -8903688982952588084
+    second: ToiletPaperSprites_109
+  - first:
+      213: 3011000838225670967
+    second: ToiletPaperSprites_110
+  - first:
+      213: 9172855039105617037
+    second: ToiletPaperSprites_111
+  - first:
+      213: -8523791035712982204
+    second: ToiletPaperSprites_112
+  - first:
+      213: -635062555936219377
+    second: ToiletPaperSprites_113
+  - first:
+      213: 8135901563232033954
+    second: ToiletPaperSprites_114
+  - first:
+      213: 4846038090898224861
+    second: ToiletPaperSprites_115
+  - first:
+      213: -3906752399426869234
+    second: ToiletPaperSprites_116
+  - first:
+      213: -3888129669685150218
+    second: ToiletPaperSprites_117
+  - first:
+      213: -1625536733096066117
+    second: ToiletPaperSprites_118
+  - first:
+      213: -3954613005936377076
+    second: ToiletPaperSprites_119
+  - first:
+      213: 101736433945136036
+    second: ToiletPaperSprites_120
+  - first:
+      213: 7309587828053567938
+    second: ToiletPaperSprites_121
+  - first:
+      213: 8280869334829883459
+    second: ToiletPaperSprites_122
+  - first:
+      213: -1497358027242717808
+    second: ToiletPaperSprites_123
+  - first:
+      213: -8064518882708957689
+    second: ToiletPaperSprites_124
+  - first:
+      213: 7264148735108706816
+    second: ToiletPaperSprites_125
+  - first:
+      213: 6782036524889054406
+    second: ToiletPaperSprites_126
+  - first:
+      213: 6401490645726926101
+    second: ToiletPaperSprites_127
+  - first:
+      213: -4512903939043460234
+    second: ToiletPaperSprites_128
+  - first:
+      213: 7614869757065642565
+    second: ToiletPaperSprites_129
+  - first:
+      213: -6795426652711511839
+    second: ToiletPaperSprites_130
+  - first:
+      213: 4183251769662573128
+    second: ToiletPaperSprites_131
+  - first:
+      213: -140890957728953268
+    second: ToiletPaperSprites_132
+  - first:
+      213: -4411777260385742778
+    second: ToiletPaperSprites_133
+  - first:
+      213: 1809617666749412792
+    second: ToiletPaperSprites_134
+  - first:
+      213: -3638314814998811560
+    second: ToiletPaperSprites_135
+  - first:
+      213: 1613609063697375778
+    second: ToiletPaperSprites_136
+  - first:
+      213: 3660119921945089547
+    second: ToiletPaperSprites_19
+  - first:
+      213: -3101056434870559817
+    second: ToiletPaperSprites_20
+  - first:
+      213: -1105882224223196863
+    second: ToiletPaperSprites_21
+  - first:
+      213: -7715644564648435791
+    second: ToiletPaperSprites_22
+  - first:
+      213: -7844580009537511206
+    second: ToiletPaperSprites_23
+  - first:
+      213: -6689053159504282848
+    second: ToiletPaperSprites_25
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ToiletPaperSprites_0
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 5268
+        width: 922
+        height: 986
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cd8c51f8bf1394190bd4562ec25b31
+      internalID: 6713304831501166451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_1
+      rect:
+        serializedVersion: 2
+        x: 4447
+        y: 5977
+        width: 233
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b2d5f0ad864f24da98e21fe381f4b8
+      internalID: -2164852846325509775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_4
+      rect:
+        serializedVersion: 2
+        x: 4888
+        y: 5392
+        width: 895
+        height: 1648
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45124e697131944a9bea7bf644ef229
+      internalID: -5075075729422480407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_5
+      rect:
+        serializedVersion: 2
+        x: 5983
+        y: 5394
+        width: 889
+        height: 1643
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771990d1fb94df440b27b79dfe419f27
+      internalID: 7893637706414088126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_6
+      rect:
+        serializedVersion: 2
+        x: 7037
+        y: 5420
+        width: 916
+        height: 1617
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df36c284635998f4a923c228112a5bac
+      internalID: -4328209957112822227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_7
+      rect:
+        serializedVersion: 2
+        x: 8441
+        y: 5491
+        width: 852
+        height: 1679
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1e080bb276b6942b61c0fa1e804a44
+      internalID: -4834604158377725501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_8
+      rect:
+        serializedVersion: 2
+        x: 9484
+        y: 5397
+        width: 864
+        height: 1796
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c85d22f9897e3048bcb9dceef9b0073
+      internalID: -7800059160199974485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_9
+      rect:
+        serializedVersion: 2
+        x: 10428
+        y: 5423
+        width: 911
+        height: 1775
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eabeed0613107b4e9a005710f0a466b
+      internalID: 3081434820568967344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_10
+      rect:
+        serializedVersion: 2
+        x: 3527
+        y: 4785
+        width: 960
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aad0b7647417f4dbf5c8189ba7d28c
+      internalID: -21386172032560623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_11
+      rect:
+        serializedVersion: 2
+        x: 4886
+        y: 3602
+        width: 882
+        height: 1629
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76a6fa96ec416a458663d8a9473a643
+      internalID: 5288135826834437640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_12
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 3671
+        width: 957
+        height: 1594
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa921256d280644585f7989361c4cd8
+      internalID: -5297646995115690914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_13
+      rect:
+        serializedVersion: 2
+        x: 7064
+        y: 3682
+        width: 942
+        height: 1667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7a07b780c3adc4c9938db2b49d9e77
+      internalID: 1169349920084697996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_14
+      rect:
+        serializedVersion: 2
+        x: 8358
+        y: 3697
+        width: 887
+        height: 1662
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0df726a6fdd9f0499800868b3977b89
+      internalID: 712847983108897108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_15
+      rect:
+        serializedVersion: 2
+        x: 9285
+        y: 3124
+        width: 919
+        height: 2236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719938e3a528d254b902b2b92682b548
+      internalID: -5928454668213217744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_16
+      rect:
+        serializedVersion: 2
+        x: 10382
+        y: 3554
+        width: 745
+        height: 1745
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15df0c08adc977940b0ea6ef077c1011
+      internalID: -4319602035664780844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_17
+      rect:
+        serializedVersion: 2
+        x: 11330
+        y: 3253
+        width: 952
+        height: 1999
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86c7d5f70ace044b86abd34c9456905
+      internalID: 3992202497590468401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_18
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 4380
+        width: 369
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a3b49ded2d3284ea5abafe5c42f1e1
+      internalID: -6304786166971103961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_24
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 4576
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce993699298f7914e858eea3ea909828
+      internalID: 1317776737703682886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_28
+      rect:
+        serializedVersion: 2
+        x: 3527
+        y: 4360
+        width: 989
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d17f83a7955d84c82a7df945439a21
+      internalID: 471484431698571785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_33
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 4243
+        width: 197
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec7b39c0422cbb4a94e8cc5a3e25301
+      internalID: 8655444150029392066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_34
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 4237
+        width: 197
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1635e9de3b6528340b1691364d13044d
+      internalID: 8557879307780167783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_35
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 4234
+        width: 194
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c68a66bce83ba249bb7d31b6a05d6e5
+      internalID: -6091332318023106554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_36
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 4337
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164575a408bfc204c8b10924c6ea9659
+      internalID: 5517260958147118483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_37
+      rect:
+        serializedVersion: 2
+        x: 3527
+        y: 4051
+        width: 960
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67790ea802adab46ae7bc9e3fd2f0b8
+      internalID: 1331675771289210958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_38
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3925
+        width: 245
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6692c3b4586245c4b9aaea9eeebd985f
+      internalID: -8786874987802333798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_39
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 3920
+        width: 246
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca016c8c91a5614fa98938a43d425fa
+      internalID: -9072693859374082380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_40
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 3922
+        width: 246
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9772b1c8c0acc7b4499e95cd18634c80
+      internalID: -437324932665231654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_41
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 4008
+        width: 517
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d39a87538ad16489a368e6bfa8e39a
+      internalID: 8576928924190540790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_45
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 4070
+        width: 140
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3067c0920cdb249a52a0bfc2a28889
+      internalID: 8244047859764226706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_46
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 3960
+        width: 303
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705b4049941536b4f80d0ef2bd896a46
+      internalID: -8744657115672189767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_48
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 4103
+        width: 457
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c697067fabe453b4da9e47544050f9e0
+      internalID: -1815617814509978901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_54
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 3610
+        width: 343
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a51f9c2ddd1bf4ca5333f593bf8530
+      internalID: 6864285995541494368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_61
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 3497
+        width: 251
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ed5aca6285b2c4abe14be959b6cdab
+      internalID: -4227008387147635717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_62
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 3493
+        width: 246
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eadee13cda6abd4ba77c0b75e626c04
+      internalID: -741868485427688975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_63
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 3494
+        width: 249
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df57e4f98356634683e3a726ba1d556
+      internalID: 4404663505782999551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_64
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 3598
+        width: 231
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c248289c796257429f9f6a28f01ce12
+      internalID: -5232419196990576116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_68
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 3588
+        width: 126
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96faf478820f90046ad8b342e884e52e
+      internalID: 394161052517564580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_70
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 3459
+        width: 308
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae31bb93a7b744d4685505b40ff6e7b0
+      internalID: -100011003255954526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_71
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 3459
+        width: 340
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37886c9aa1525d0428b0dd100e29eec6
+      internalID: 698620312286356752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_72
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 3485
+        width: 334
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b555bdd1dca51e49bc19fd237495eae
+      internalID: 7091060929427833702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_73
+      rect:
+        serializedVersion: 2
+        x: 3981
+        y: 3528
+        width: 146
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cee2a51eed55424eaac64f58e7db1b7
+      internalID: -4361839721761025627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_74
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 3485
+        width: 115
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe8a8e57a7a9a445a53e06c1e32bb74
+      internalID: -7898385652736800453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_75
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 3350
+        width: 218
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2212bbf79b19247836d9b9025ed7aa
+      internalID: 657682805280864057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_76
+      rect:
+        serializedVersion: 2
+        x: 3982
+        y: 3322
+        width: 146
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0716346146e5db040a830c5181e04715
+      internalID: -1373027391597513779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_78
+      rect:
+        serializedVersion: 2
+        x: 8495
+        y: 3038
+        width: 727
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1455a6ca6506d149aa3de930c6f05b7
+      internalID: -863337324349816810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_79
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 3104
+        width: 310
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33023cb7f99adc04f941598ebe717a01
+      internalID: 3771211818182184629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_80
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 3099
+        width: 309
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a8ebf5bf8169a46beb94dd56ce2a76
+      internalID: 2763113560655162664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_81
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 3098
+        width: 311
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad25067138093947add628b44cc58f3
+      internalID: 5121561649118556253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_82
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 3333
+        width: 104
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0113a860b91021142a57f925146e11e3
+      internalID: -197336397994156816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_83
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 3150
+        width: 305
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0678a57c96c1bb142a2f9c34849687ca
+      internalID: -82799408930994423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_84
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 3135
+        width: 332
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c749fd2b833e1c4787d8b944b089e62
+      internalID: 1938882169626728202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_85
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 3101
+        width: 157
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c46950486b8dd46b866433c935b645
+      internalID: 1279662491911997593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_86
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 3091
+        width: 179
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572358a167dc5534b87ad331208f7b3f
+      internalID: -6135072193863348997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_87
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 3168
+        width: 141
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab48cf69cce1af94faa052bac3dd4d5d
+      internalID: 5932952258091580816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_88
+      rect:
+        serializedVersion: 2
+        x: 3982
+        y: 3135
+        width: 152
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0b63a3c19accf4a88c23ba3c64a0f1
+      internalID: -3569761747065602895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_89
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 2704
+        width: 729
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192ffcfd2476124459da7796b88d7d1e
+      internalID: -2599824066505423393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_90
+      rect:
+        serializedVersion: 2
+        x: 5603
+        y: 2750
+        width: 728
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7c053f7a1dc5146883105cc3f3efd1
+      internalID: 2921481049110503113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_91
+      rect:
+        serializedVersion: 2
+        x: 6532
+        y: 2828
+        width: 729
+        height: 473
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d7f4dc9ba42704e874e51b74b44777
+      internalID: 5269337600415116845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_92
+      rect:
+        serializedVersion: 2
+        x: 7561
+        y: 2859
+        width: 729
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f49a47746e04740b2a287377df856d
+      internalID: -3376736104988593383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_93
+      rect:
+        serializedVersion: 2
+        x: 5732
+        y: 2355
+        width: 471
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7aa77e77dad4c2468a5a38307199a2c
+      internalID: 2797793893591535795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_94
+      rect:
+        serializedVersion: 2
+        x: 6661
+        y: 2433
+        width: 471
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3b22400a4af80418e7d5f050ef1952
+      internalID: -3494669851800899368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_95
+      rect:
+        serializedVersion: 2
+        x: 7690
+        y: 2462
+        width: 471
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbe4d271baa428489dd6852c070881e
+      internalID: 5699334929129143121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_96
+      rect:
+        serializedVersion: 2
+        x: 8624
+        y: 2642
+        width: 471
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6dfc5c58e43104a854e5bfb1177cfd
+      internalID: -5577610783651916689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_97
+      rect:
+        serializedVersion: 2
+        x: 9924
+        y: 2521
+        width: 309
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794bbdd5b0f2e56468f85c43b7b3af3d
+      internalID: -6810815034619882091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_98
+      rect:
+        serializedVersion: 2
+        x: 10444
+        y: 2529
+        width: 347
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136e71dcaf70e084e8f3a770b743d852
+      internalID: -6685231366213195165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_99
+      rect:
+        serializedVersion: 2
+        x: 11020
+        y: 2704
+        width: 379
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7778bb65c11170d449fb55d0aedb951a
+      internalID: 6506907619381840023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_100
+      rect:
+        serializedVersion: 2
+        x: 4668
+        y: 2252
+        width: 561
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f3c5def8e119d42b633ce81cc02956
+      internalID: -1964357202358857619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_101
+      rect:
+        serializedVersion: 2
+        x: 6661
+        y: 1938
+        width: 471
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fbe248818f5904d998e9959deb2eb7
+      internalID: -7417174686504729931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_102
+      rect:
+        serializedVersion: 2
+        x: 7690
+        y: 1967
+        width: 471
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6183d0c18a2cc43bad534a4d9f4d7b
+      internalID: 674816798831000471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_103
+      rect:
+        serializedVersion: 2
+        x: 8624
+        y: 2146
+        width: 471
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada4f7ce064eee442bc0bcc385796e62
+      internalID: 4810837810636883646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_104
+      rect:
+        serializedVersion: 2
+        x: 9927
+        y: 2084
+        width: 289
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34bb81e98c2bc94db6c8ecd8903760d
+      internalID: 4540047932993813083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_105
+      rect:
+        serializedVersion: 2
+        x: 10437
+        y: 2082
+        width: 308
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e505314b11b68374cb095c0536020bc4
+      internalID: -7078421585138875503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_106
+      rect:
+        serializedVersion: 2
+        x: 11020
+        y: 2292
+        width: 379
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24baf3aead14b41429565212fbd044f8
+      internalID: -8102175379669674910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_107
+      rect:
+        serializedVersion: 2
+        x: 4668
+        y: 1789
+        width: 561
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9a798e397c3644f9c4c0c315bc61ff
+      internalID: 1556244259841342503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_108
+      rect:
+        serializedVersion: 2
+        x: 5732
+        y: 1858
+        width: 471
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b85dcd079739b48bfc5328c8802000
+      internalID: 773644401106196485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_109
+      rect:
+        serializedVersion: 2
+        x: 11020
+        y: 1866
+        width: 379
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29f83237be659d448b6541dfd8a26c0
+      internalID: -8903688982952588084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_111
+      rect:
+        serializedVersion: 2
+        x: 4607
+        y: 1263
+        width: 729
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22de5417a7df7b64c9c59a414a3ee42e
+      internalID: 9172855039105617037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_112
+      rect:
+        serializedVersion: 2
+        x: 6532
+        y: 1284
+        width: 729
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f452313841af140a4395a0ab5f3616
+      internalID: -8523791035712982204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_113
+      rect:
+        serializedVersion: 2
+        x: 7561
+        y: 1312
+        width: 729
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9006535b40a57604b8809d009a70006a
+      internalID: -635062555936219377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_114
+      rect:
+        serializedVersion: 2
+        x: 8499
+        y: 1312
+        width: 728
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37390ea7bc3df647bf93d768356d7b1
+      internalID: 8135901563232033954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_115
+      rect:
+        serializedVersion: 2
+        x: 9914
+        y: 1573
+        width: 310
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909ff05e514f5564194963f2487e96e6
+      internalID: 4846038090898224861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_116
+      rect:
+        serializedVersion: 2
+        x: 10437
+        y: 1573
+        width: 313
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999523cc113262642a6dad00c22e01e0
+      internalID: -3906752399426869234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_117
+      rect:
+        serializedVersion: 2
+        x: 11020
+        y: 1407
+        width: 382
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c7d599229f75f48ae3dabd81ad9790
+      internalID: -3888129669685150218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_118
+      rect:
+        serializedVersion: 2
+        x: 11616
+        y: 969
+        width: 984
+        height: 855
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0d9cb66a7accb44978c62c4922f080
+      internalID: -1625536733096066117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_119
+      rect:
+        serializedVersion: 2
+        x: 4737
+        y: 867
+        width: 469
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d6d25657e096b4088cd65c6c59477e
+      internalID: -3954613005936377076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_120
+      rect:
+        serializedVersion: 2
+        x: 6661
+        y: 887
+        width: 471
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622168e0a09fb7a4185bb2f54ffdd419
+      internalID: 101736433945136036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_121
+      rect:
+        serializedVersion: 2
+        x: 7690
+        y: 917
+        width: 471
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab318bf3a623fb4c8f5a681537bd2fb
+      internalID: 7309587828053567938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_122
+      rect:
+        serializedVersion: 2
+        x: 8629
+        y: 917
+        width: 469
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8bcb72f4bd58a47a1b12abe766e2d7
+      internalID: 8280869334829883459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_123
+      rect:
+        serializedVersion: 2
+        x: 9910
+        y: 1083
+        width: 317
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47891a880106cc54ea813f802b096835
+      internalID: -1497358027242717808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_124
+      rect:
+        serializedVersion: 2
+        x: 10437
+        y: 1090
+        width: 317
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00ecd0534cc025439c138ba22c2725b
+      internalID: -8064518882708957689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_125
+      rect:
+        serializedVersion: 2
+        x: 11018
+        y: 975
+        width: 382
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b9c653530181244909c84015e39ede
+      internalID: 7264148735108706816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_126
+      rect:
+        serializedVersion: 2
+        x: 4737
+        y: 371
+        width: 469
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9935f541d85664c43ade639199f63251
+      internalID: 6782036524889054406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_127
+      rect:
+        serializedVersion: 2
+        x: 6661
+        y: 392
+        width: 471
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccabbb7bb66561042848369201009364
+      internalID: 6401490645726926101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_128
+      rect:
+        serializedVersion: 2
+        x: 7690
+        y: 421
+        width: 471
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2876181c50666e342bc9fe8ba15cb113
+      internalID: -4512903939043460234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_129
+      rect:
+        serializedVersion: 2
+        x: 8629
+        y: 421
+        width: 469
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01325a944e4f8f489420c66ecb01eb1
+      internalID: 7614869757065642565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_130
+      rect:
+        serializedVersion: 2
+        x: 9913
+        y: 594
+        width: 321
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc97e347435e283478f335e1fb84075a
+      internalID: -6795426652711511839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_131
+      rect:
+        serializedVersion: 2
+        x: 10441
+        y: 594
+        width: 352
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23585d13bf6b57347831d265ac81af46
+      internalID: 4183251769662573128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_132
+      rect:
+        serializedVersion: 2
+        x: 11020
+        y: 466
+        width: 453
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf8deb5c26d6df42b928692e2e1dfa0
+      internalID: -140890957728953268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_134
+      rect:
+        serializedVersion: 2
+        x: 11020
+        y: 0
+        width: 517
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c994de65eb748441b0d98a5d3f88326
+      internalID: 1809617666749412792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_19
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 4372
+        width: 461
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb64c99dc8a1c9746a27dbaf91f44d68
+      internalID: 3660119921945089547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_20
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 4042
+        width: 239
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccdca960b001d048b458f26f95e05d2
+      internalID: -3101056434870559817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_21
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 4286
+        width: 234
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c3514b501c43d4584ca9a713e27ff0
+      internalID: -1105882224223196863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_22
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 4497
+        width: 311
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c8ef894717de2449805e5196d00b81
+      internalID: -7715644564648435791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_23
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 4401
+        width: 431
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1066a8cf9f8474d43a94762d03af25f0
+      internalID: -7844580009537511206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_25
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 3797
+        width: 739
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a2315bcdbb83b48beb1dcb378eb640
+      internalID: -6689053159504282848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletPaperSprites_2
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 3640
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6bb740af793e744ae0c590312ea857
+      internalID: -7952423658536145969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
